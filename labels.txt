@@ -1,0 +1,7 @@
+0 Strawberry___healthy
+1 Strawberry_Leaf_scorch
+2 Tomato_Bacterial_spot
+3 Tomato_Healthy
+4 Tomato_blight
+5 Tomato_Target_Spot
+6 Tomato_Yellow_Leaf_Curl_Virus
